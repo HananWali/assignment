@@ -1,4 +1,6 @@
-
+<!DOCTYPE html>
+<html>
+<head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Assignment</title>
@@ -172,11 +174,12 @@ clear:both;
 </style>
 </head>
 <body>
-<h1>Responsive Layout</h1>
+<h1>Assignment</h1>
 
 <div class="row">
   <div class="col-lg-4 col-md-6 col-sm-12"><p > <span class="ok">Chicken</span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio.</p></div>
   <div class="col-lg-4 col-md-6 col-sm-12"><p ><span class="ok">Beef</span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. </p></div>
   <div class="col-lg-4 col-md-12 col-sm-12"><p ><span class="ok">Sushi</span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. </p></div>
-  
+  </body>
+</html>
 
